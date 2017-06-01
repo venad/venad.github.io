@@ -1,2 +1,0 @@
-# venad.github.io
-Stranica

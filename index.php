@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<!-- designed by Venad Brkić: venadb@hotmail.com -->
+<!-- Oficijenlna web stranica osnovne škole "Arnauti" u Arnautima -->
+
+<html lang="hr">
+	<head>
+		<meta charset="UTF-8">
+		<title>Osnovna škola "Arnauti"</title>
+		
+		<link rel="stylesheet" href="css/glavni.css">
+	</head>
+	<body>
+		<div class="okvir">
+			<div class="sekcija-jedan">
+				<!------- PODSEKCIJA-JEDAN ------->
+				<div class="podsekcija-jedan">
+					<div class="logo"> </div>
+					
+					<div class="navigacija-box">
+						<nav>
+							<ul>
+								<a href="#"><li><div class="va">Početna </div></li></a>
+								<a href="#"><li><div class="va">O školi </div></li></a>
+								<a href="#"><li><div class="va">Aktivnosti </div></li></a>
+								<a href="#"><li><div class="va">Obavještenja</div></li></a>
+								<a href="#"><li><div class="va">Kontakt</div></li></a>
+							</ul>
+						</nav>
+						<div class="trazilica">
+							<div class="va">
+							<form>
+								<input type="text" name="search" placeholder="Traži...">
+							</form>
+							</div>
+							
+						</div>
+					</div><!-- kraj navigacija-box -->
+					
+					<div class="obavjestenja-box">
+						<div class="a1">
+							<div class="a1a"></div>	
+							<div class="a1b">
+								<div class="va"> 
+									Obavještavamo roditelje da će dana 25.5.2017. godine biti održan roditeljski sastanak!
+								</div>
+							</div>
+							<div class="a1c">
+								<div class="a1c1">
+									<div class="va">
+										
+										20.05.2017 15:45
+									</div>
+								</div>
+								<a href="#">
+									<div class="a1c2">
+										<div class="va">
+											Više detalja...
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+						
+					</div><!--kraj obavjestenja-box -->
+				</div><!-- podsekcija-jedan -->
+				<!------- PODSEKCIJA-DVA --------->
+				<div class="podsekcija-dva">
+				
+					<div class="pd-gornji-box">
+						<div class="navigacija-brojevi">
+							<ul>
+								<a href="#"> <li><div class="va">01</div></li></a>
+								<a href="#"> <li><div class="va bo">02</div></li></a>
+								<a href="#"> <li><div class="va">03</div></li></a>
+								<a href="#"> <li><div class="va">04</div></li></a>
+								<a href="#"> <li><div class="va">05</div></li></a>
+								
+							</ul>
+						</div>
+						<div class="slika-slide"><img src="slike/djeca.jpg"></div>
+						<div class="tekst-slide">
+							<div class="va">
+							<a href="#"><h1 class="bo"> U prostorijama osnovne škole "Meša Selimović" u Zenici, održano je kantonalno takmičenje iz fizike</h1></a>
+							<p>U prostorijama osnovne škole "Meša Selimović" u Zenici, održano je kantonalno takmičenje iz fizike na kojem su učestvovali naši učenici ...</p>
+							<a href="#"><div class="vise-akt"><div class="va">Više detalja...</div></div></a>
+							</div>
+							
+						</div>
+					</div> <!--kraj pd-gornji-box -->
+					
+					<div class="pd-donji-box">
+						<div class="lijevi-box-slide">
+							<div class="veliki-broj">
+								<div class="broj-slide"><div class="va">02</div></div>
+								<div class="tekst-ispod-slide">
+									<div class="va">
+										<p>Maglaj, april 2017</p>
+										<p class="bo">Kantonalno takmičenje iz fizike</p>
+									</div>
+								</div>
+							</div>
+							<div class="strelice-navigacija"> &lt &gt  </div>
+						</div> 
+						<div class="desni-box-slide">
+							<div class='icon-scroll'>
+								<div class="loptica"></div>
+								<div class="linija-loptica"></div>
+								<p class="scroll">Scroll down</p>
+							<div/>
+						</div>
+					</div> <!-- kraj pd-donji-box -->
+					
+				</div> <!-- kraj podsekcija-dva -->
+			</div> <!-- kraj sekcija-jedan -->
+			<div class="sekcija-dva">
+				<div class="ph-1"></div>
+				<div class="ph-2">
+					<div class="ph-2a"></div>
+					<div class="ph-2b"><div class="va">Photo Galerija</div></div>
+				</div>
+			</div><!-- kraj sekcija-dva-->
+			<div class="sekcija-tri">
+				<div class="s3-2"></div>
+				<div class="s3-1">
+					<div class="s3-1a"></div>
+					<div class="s3-1b">
+						<div class="s3-1b-naslov"> "Škafetin" </div>
+						<div class="s3-1b-text">Školski list Osnovne škole "Arnauti", godina 2016/2017, broj:5.</div>
+						<div class="s3-1b-download">Download</div>
+					</div>
+					<div class="s3-1c"><div class="va">2016/2017</div></div>
+				</div>
+				
+			</div><!-- kraj sekcija-tri -->
+			
+		</div> <!-- kraj okvir -->
+	</body>
+</html>
