@@ -6,7 +6,7 @@
 <html lang="hr">
 	<head>
 		<meta charset="UTF-8">
-		<title>Osnovna škola "Arnauti"</title>
+		<title>Dva</title>
 		
 		<link rel="stylesheet" href="css/glavni.css">
 	</head>
